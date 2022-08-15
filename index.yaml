@@ -3,12 +3,12 @@ entries:
   ciencianoschart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-15T11:44:58.5980334-03:00"
+    created: "2022-08-15T14:18:42.9274426-03:00"
     description: A Helm chart for Kubernetes
-    digest: 3a09a8c467a5f2b2851abb9e748b7f34fe968dcde9055be112f4d49b3b269aae
+    digest: 46107adefe29ab5c95150fc7d6954478a865d05450f5ce48f1e5ad26161db920
     name: ciencianoschart
     type: application
     urls:
     - ciencianoschart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-15T11:44:58.5831967-03:00"
+generated: "2022-08-15T14:18:42.9274426-03:00"
