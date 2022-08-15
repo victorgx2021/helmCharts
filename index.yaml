@@ -3,7 +3,7 @@ entries:
   ciencianosDevBack:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-15T18:04:27.6623088-03:00"
+    created: "2022-08-15T18:19:24.7640104-03:00"
     description: A Helm chart for Kubernetes
     digest: 1565a6ca9821723cf62182b64f79d87c8f9610dd06d2f6b834f0c13f3c78693a
     name: ciencianosDevBack
@@ -11,4 +11,15 @@ entries:
     urls:
     - ciencianosDevBack-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-15T18:04:27.6617768-03:00"
+  ciencianosdevfront:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-15T18:19:24.7650809-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 6383d44fb27219a30f80297004ccb18baf4bd4bff5a9ea54b14e1397e1474842
+    name: ciencianosdevfront
+    type: application
+    urls:
+    - ciencianosdevfront-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-15T18:19:24.7634802-03:00"
